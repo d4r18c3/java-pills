@@ -1,0 +1,16 @@
+# Ignore os arquivos
+.classpath
+.project
+
+# Ignore a pasta node_modules
+bin
+.settings
+
+# Ignore todos os arquivos de texto
+# *.txt
+
+# Ignore arquivos relacionados às chaves de API
+# .env
+
+# Ignore arquivos de configuração de SASS
+# .sass-cache
