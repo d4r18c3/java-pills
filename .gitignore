@@ -7,10 +7,10 @@ bin
 .settings
 
 # Ignore todos os arquivos de texto
-# *.txt
+*.txt
 
 # Ignore arquivos relacionados às chaves de API
-# .env
+.env
 
 # Ignore arquivos de configuração de SASS
-# .sass-cache
+.sass-cache
